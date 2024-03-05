@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "FraudLabsPro",
+  "SystemName": "Misc.FraudLabsPro",
+  "Version": "1.04",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "nopCommerce team, Nop-Station Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.FraudLabsPro.dll",
+  "Description": "This plugin allows to integrate with FraudLabsPro service"
+}
