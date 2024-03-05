@@ -11,19 +11,20 @@ FraudLabs Pro APIs: Developer Guide
 
 ===========
 
-Description
 Fraud prevention plugin to help merchants to screen the order transactions for payment fraud. Its comprehensive and advanced algorithm engines validate all elements such as geolocation, anonymous proxy, email address, blacklist record, credit card BIN, transaction velocity and many more to pinpoint fraud orders accurately.
 
 Free Micro Plan available with 500 validations per month.
 
 Please visit the FraudLabs Pro Articles & Tutorials to learn more about our fraud validation.
 
+Note: This plugin works in nopCommerce 4.40, 4.50, 4.60
+
 Why FraudLabs Pro
 Flexibility
 We offer you a flexible solution to identify a fraud order. You can use our FraudLabs Pro score to determine a fraud order or customize your own validation rules to target a specific case, or a combination of both.
 
 Free
-We are not offering you a trial version, but a free version to start protecting your online business. It’s absolutely free if your monthly orders are less than 500 transactions. There is no upfront credit card information needed, commitment, hidden cost and whatsoever.
+We are not offering you a trial version, but a free version to start protecting your online business. It’s absolutely free if your monthly orders are less than 500 transactions or monthly sales are less than 25K USD. There is no upfront credit card information needed, commitment, hidden cost and whatsoever.
 
 Trustworthy
 We have been in the fraud prevention industry for more than 10 years. Thousands of our clients are currently using our FraudLabs Pro solution to protect their e-commerce sites from fraud.
@@ -46,3 +47,7 @@ Go to admin area > configuration > local plugins.
 Upload the plugin archive using the "Upload plugin or theme" plugin.
 Scroll down through the list of plugins to find the newly installed plugin. And click on the "Install" button to install the plugin.
 Sign up for a Free license key and start protecting your business from payment fraud.
+SUPPORT
+Email: support@fraudlabspro.com
+
+Please visit us at FraudLabs Pro for more information.
